@@ -1,0 +1,7 @@
+Technologies you can use:
+
+Create React App, or Gatsby are excellent choices for building the storefront that displays the products/services.
+Algolia is perfect for creating a lightning-fast product search interface.
+Netlify/AWS Lambda for handling the checkout process. 
+Stripe/react-stripe-elements for managing the payment process.
+Snipcart allows you to create a cart and also manage the cart products.
